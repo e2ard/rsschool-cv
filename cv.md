@@ -5,7 +5,7 @@
 edvard.naus@gmail.com
 linkedin.com/in/edvard-naus-850249153
 
-<h2>SUMMARY</g2>
+<h2>SUMMARY</h2>
 Goal learn new skills.
 
 <h2>SKILS</h2>
