@@ -9,6 +9,6 @@ linkedin.com/in/edvard-naus-850249153
 Goal learn new skills.
 
 <h2>SKILS</h2>
-c#, .net, SQL
+c#, .net, SQL, EntityFramework
 
 
